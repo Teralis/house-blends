@@ -1,0 +1,5 @@
+output/*.docx
+*.csv
+temp_generate_report.js
+node_modules/
+__pycache__/
